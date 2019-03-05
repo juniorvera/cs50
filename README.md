@@ -11,8 +11,8 @@ This program drows pyramid from Mario game, using symbol #.
 For example
 Height = 5 
 
-    ##
+ ** ##
    ###
   ####
  #####
-######
+######**
